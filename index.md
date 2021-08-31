@@ -1,3 +1,26 @@
+## Natalie's First CS193 Homework
+
+### Things I like about CS:
+
+- There are so many different, valuable things to learn which includes all different types of programming languages.
+- You look very cool and everyone thinks you're the mastermind behind the Matrix.
+- There is an extensive amount of creativity that goes into each project.
+- CS teaches you patience, commitment, and perserverance.
+- You are given the opportunity to work with a lot of people that share your same interests.
+- Making video games is rad.
+- Making any program is also very rad.
+- Coding is oddly therapeutic as long as your CS project isn't due at midnight and the clock isn't slowly ticking down as sweat trickles over your brow and onto your fingers as you pound at the keys at 11:58 pm.
+- I have an excuse to have Clemons, the Debugging Duck, with me at all times.
+
+### Clemons The Debugging Duck
+
+Please excuse his rugged appearance, he's been through a lot.
+
+![Clemons](https://user-images.githubusercontent.com/89657349/131576299-cf0b7df4-c56c-4806-8903-7f6086405271.jpg)
+
+This link will take you to [Rubber Duck Debugging](https://rubberduckdebugging.com/), the only thing I learned in my intro to CS class(not really.)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
